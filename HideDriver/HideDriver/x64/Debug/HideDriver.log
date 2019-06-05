@@ -1,0 +1,17 @@
+﻿  Building 'HideDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\HideDriver.inf [Version] section with DriverVer=06/05/2019,14.51.56.309
+  Windows Driver1.c
+c:\users\sqdwr\desktop\hidedriver\hidedriver\get_miprocessloaderentry.h(201): warning C4133: “函数”: 从“RTL_OSVERSIONINFOEXW *”到“PRTL_OSVERSIONINFOW”的类型不兼容
+c:\users\sqdwr\desktop\hidedriver\hidedriver\windows driver1.c(75): warning C4047: “=”:“ULONG”与“void *”的间接级别不同
+  HideDriver.vcxproj -> C:\Users\sqdwr\Desktop\HideDriver\x64\Debug\HideDriver.sys
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\sqdwr\Desktop\HideDriver\x64\Debug\HideDriver\hidedriver.cat

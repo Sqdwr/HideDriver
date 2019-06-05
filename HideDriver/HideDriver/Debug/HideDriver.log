@@ -1,0 +1,10 @@
+﻿  Building 'HideDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\HideDriver.inf [Version] section with DriverVer=05/06/2019,14.25.7.611
+  Windows Driver1.c
+c:\users\sqdwr\desktop\hidedriver\hidedriver\get_miprocessloaderentry.h(201): error C2220: 警告被视为错误 - 没有生成“object”文件
+c:\users\sqdwr\desktop\hidedriver\hidedriver\get_miprocessloaderentry.h(201): warning C4133: “函数”: 从“RTL_OSVERSIONINFOEXW *”到“PRTL_OSVERSIONINFOW”的类型不兼容
+c:\users\sqdwr\desktop\hidedriver\hidedriver\windows driver1.c(67): warning C4047: “=”:“ULONG”与“void *”的间接级别不同
+c:\users\sqdwr\desktop\hidedriver\hidedriver\windows driver1.c(52): warning C4100: “Count”: 未引用的形参
+c:\users\sqdwr\desktop\hidedriver\hidedriver\windows driver1.c(52): warning C4100: “Context”: 未引用的形参
+c:\users\sqdwr\desktop\hidedriver\hidedriver\windows driver1.c(84): warning C4100: “DriverObject”: 未引用的形参
+c:\users\sqdwr\desktop\hidedriver\hidedriver\windows driver1.c(89): warning C4100: “RegString”: 未引用的形参
